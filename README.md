@@ -1,5 +1,8 @@
 # 环境数据分析与可视化课件
 
+1. R简介及基础知识  
+https://github.com/tan-qiao-guo/environmental_data_analysis_and_visualization/blob/main/1a.%20R_introduction.pdf
+https://tan-qiao-guo.github.io/1b_R_basics/#1  
 
 1. `ggplot2` 作图基础  
 https://tan-qiao-guo.github.io/2_ggplot_essentials/#1
