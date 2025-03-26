@@ -12,3 +12,6 @@ https://tan-qiao-guo.github.io/4_dplyr_data_wrangling/#1
 
 1. `lubridate`日期时间数据分析  
 https://tan-qiao-guo.github.io/5_lubridate_date_time_data/#1
+
+1. `sf`地图绘制与空间数据处理  
+https://tan-qiao-guo.github.io/6_sf_maps/#1
