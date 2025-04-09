@@ -25,3 +25,6 @@ https://tan-qiao-guo.github.io/6_sf_maps/#1
 https://github.com/tan-qiao-guo/environmental_data_analysis_and_visualization/blob/main/7a.%20%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96%E5%8E%9F%E5%88%99-2025.pdf
 * (b) 颜色的选择与适用  
 https://github.com/tan-qiao-guo/environmental_data_analysis_and_visualization/blob/main/7b.%20%E9%A2%9C%E8%89%B2%E7%9A%84%E9%80%89%E6%8B%A9%E5%92%8C%E4%BD%BF%E7%94%A8-2025.pdf
+
+8. 相关性分析    
+https://tan-qiao-guo.github.io/8_correlation_analysis/#1
