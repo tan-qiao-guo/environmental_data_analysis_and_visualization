@@ -1,4 +1,5 @@
-# 环境数据分析与可视化课件（厦门大学环境与生态学院2025年春）
+# 环境数据分析与可视化课件
+（厦门大学环境与生态学院2025年春）
 
 1. R简介  
 https://github.com/tan-qiao-guo/environmental_data_analysis_and_visualization/blob/main/1a.%20R_introduction.pdf
