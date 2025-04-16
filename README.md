@@ -28,3 +28,6 @@ https://github.com/tan-qiao-guo/environmental_data_analysis_and_visualization/bl
 
 8. 相关性分析    
 https://tan-qiao-guo.github.io/8_correlation_analysis/#1
+
+9. 线性回归分析    
+https://tan-qiao-guo.github.io/9_multiple_linear_regression/#1
