@@ -32,3 +32,6 @@ https://tan-qiao-guo.github.io/8_correlation_analysis/#1
 
 9. 线性回归分析    
 https://tan-qiao-guo.github.io/9_multiple_linear_regression/#1
+
+10. Logistic回归分析
+https://tan-qiao-guo.github.io/10_logistic_regression/#1
