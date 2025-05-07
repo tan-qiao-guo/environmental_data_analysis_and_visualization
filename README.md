@@ -37,4 +37,4 @@ https://tan-qiao-guo.github.io/9_multiple_linear_regression/#1
 https://tan-qiao-guo.github.io/10_logistic_regression/#1  
 
 11. t检验  
-https://github.com/tan-qiao-guo/11_t_test  
+https://tan-qiao-guo.github.io/11_t_test/#1
