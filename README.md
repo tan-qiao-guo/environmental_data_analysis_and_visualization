@@ -38,3 +38,7 @@ https://tan-qiao-guo.github.io/10_logistic_regression/#1
 
 11. t检验  
 https://tan-qiao-guo.github.io/11_t_test/#1
+
+12. 单因素方差分析ANOVA
+https://tan-qiao-guo.github.io/12_one_way_anova/#1
+
