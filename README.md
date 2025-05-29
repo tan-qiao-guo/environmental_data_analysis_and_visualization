@@ -45,3 +45,6 @@ https://tan-qiao-guo.github.io/12_anova/#1
 13. 多因素方差分析  
 https://tan-qiao-guo.github.io/13_two_way_anova/#1
 
+14. 主成分分析PCA  
+https://tan-qiao-guo.github.io/14_pca/#1  
+
