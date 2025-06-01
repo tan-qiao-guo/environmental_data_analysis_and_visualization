@@ -49,5 +49,5 @@ https://tan-qiao-guo.github.io/13_two_way_anova/#1
 https://tan-qiao-guo.github.io/14_pca/#1  
 
 15. 建立个人GITHUB网页
-https://tan-qiao-guo.github.io/20230616-example-page/
+https://tan-qiao-guo.github.io/20230616-example-page/  
 https://tan-qiao-guo.github.io/HeWY_2025_MPB/  
