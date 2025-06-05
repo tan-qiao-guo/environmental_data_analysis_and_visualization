@@ -10,6 +10,8 @@
 
 - [R 简介（PDF）](https://tan-qiao-guo.github.io/environmental_data_analysis_and_visualization/1a.%20R_introduction.pdf)
 
+- [R 简介（PDF）]<a href="https://tan-qiao-guo.github.io/environmental_data_analysis_and_visualization/1a.%20R_introduction.pdf" target="_blank">
+
 - [R 简介（PDF）](https://tan-qiao-guo.github.io/environmental_data_analysis_and_visualization/1a.%20R_introduction.pdf){target="_blank"}
 - [R 基础知识](https://tan-qiao-guo.github.io/1b_R_basics/#1)
 
