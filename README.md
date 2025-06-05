@@ -8,8 +8,8 @@
 
 ## 📘 R 基础入门
 
-- [R 简介（PDF）](https://github.com/tan-qiao-guo/environmental_data_analysis_and_visualization/blob/main/1a.%20R_introduction.pdf)
-- [R 基础知识（HTML）](https://tan-qiao-guo.github.io/1b_R_basics/#1)
+- [R 简介（PDF）](https://tan-qiao-guo.github.io/environmental_data_analysis_and_visualization/1a.%20R_introduction.pdf)
+- [R 基础知识](https://tan-qiao-guo.github.io/1b_R_basics/#1)
 
 ---
 
@@ -21,12 +21,13 @@
 - [lubridate 日期时间处理](https://tan-qiao-guo.github.io/5_lubridate_date_time_data/#1)  
 - [sf 地图绘制与空间数据处理](https://tan-qiao-guo.github.io/6_sf_maps/#1)
 
+
 ---
 
 ## 🖼️ 论文作图美学
 
-- [数据可视化原则（PDF）](https://github.com/tan-qiao-guo/environmental_data_analysis_and_visualization/blob/main/7a.%20%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96%E5%8E%9F%E5%88%99-2025.pdf)
-- [颜色的选择与使用（PDF）](https://github.com/tan-qiao-guo/environmental_data_analysis_and_visualization/blob/main/7b.%20%E9%A2%9C%E8%89%B2%E7%9A%84%E9%80%89%E6%8B%A9%E5%92%8C%E4%BD%BF%E7%94%A8-2025.pdf)
+- [数据可视化原则（PDF）](https://tan-qiao-guo.github.io/environmental_data_analysis_and_visualization/7a.%20%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96%E5%8E%9F%E5%88%99-2025.pdf)
+- [颜色的选择与使用（PDF）](https://tan-qiao-guo.github.io/environmental_data_analysis_and_visualization/7b.%20%E9%A2%9C%E8%89%B2%E7%9A%84%E9%80%89%E6%8B%A9%E5%92%8C%E4%BD%BF%E7%94%A8-2025.pdf)
 
 ---
 
