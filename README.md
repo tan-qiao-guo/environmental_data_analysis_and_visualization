@@ -9,6 +9,8 @@
 ## 📘 R 基础入门
 
 - [R 简介（PDF）](https://tan-qiao-guo.github.io/environmental_data_analysis_and_visualization/1a.%20R_introduction.pdf)
+
+[📄 打开课件 PDF（新标签页）](1a.%20R_introduction.pdf){target="_blank"}
 - [R 基础知识](https://tan-qiao-guo.github.io/1b_R_basics/#1)
 
 ---
