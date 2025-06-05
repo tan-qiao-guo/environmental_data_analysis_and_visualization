@@ -1,0 +1,38 @@
+---
+title: "环境数据分析与可视化课件"
+output:
+  html_document:
+    toc: false
+    toc_depth: 2
+    number_sections: false
+    theme: readable
+---
+
+<style>
+iframe {
+  width: 100%;
+  height: 600px;
+  border: 1px solid #ccc;
+  margin-bottom: 2em;
+}
+</style>
+
+
+
+---
+
+## R 简介
+
+<iframe src="1a.%20R_introduction.pdf"></iframe>
+
+---
+
+## 数据可视化原则
+
+<iframe src="7a.%20数据可视化原则-2025.pdf"></iframe>
+
+---
+
+## 颜色的选择与使用
+
+<iframe src="7b.%20颜色的选择和使用-2025.pdf"></iframe>
