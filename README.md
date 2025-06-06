@@ -10,17 +10,17 @@
 
 - [R 简介（PDF）](https://tan-qiao-guo.github.io/environmental_data_analysis_and_visualization/1a.%20R_introduction.pdf)  
 
-- [R 基础知识](https://tan-qiao-guo.github.io/environmental_data_analysis_and_visualization/1b_R_basics/1b_R_basics.html)
+- [R 基础知识](https://tan-qiao-guo.github.io/1b_R_basics/#1)
 
 ---
 
 ## 🎨 数据可视化
 
-- [ggplot2 作图基础](https://tan-qiao-guo.github.io/environmental_data_analysis_and_visualization/2_ggplot_essentials/2_ggplot_essentials.html)  
-- [ggplot2 作图进阶](https://tan-qiao-guo.github.io/environmental_data_analysis_and_visualization/3_ggplot_advanced/3_ggplot_advanced.html)  
-- [dplyr 数据整理](https://tan-qiao-guo.github.io/environmental_data_analysis_and_visualization/4_dplyr_data_wrangling/4_dplyr_data_wrangling.html)  
-- [lubridate 日期时间处理](https://tan-qiao-guo.github.io/environmental_data_analysis_and_visualization/5_lubridate_date_time_data/#1)  
-- [sf 地图绘制与空间数据处理](https://tan-qiao-guo.github.io/environmental_data_analysis_and_visualization/6_sf_maps/#1)
+- [ggplot2 作图基础](https://tan-qiao-guo.github.io/2_ggplot_essentials/#1)  
+- [ggplot2 作图进阶](https://tan-qiao-guo.github.io/3_ggplot_advanced/#1)  
+- [dplyr 数据整理](https://tan-qiao-guo.github.io/4_dplyr_data_wrangling/#1)  
+- [lubridate 日期时间处理](https://tan-qiao-guo.github.io/5_lubridate_date_time_data/#1)  
+- [sf 地图绘制与空间数据处理](https://tan-qiao-guo.github.io/6_sf_maps/#1)
 
 
 ---
@@ -34,19 +34,19 @@
 
 ## 📊 统计分析方法
 
-- [相关性分析](https://tan-qiao-guo.github.io/environmental_data_analysis_and_visualization/8_correlation_analysis/#1)
-- [线性回归分析](https://tan-qiao-guo.github.io/environmental_data_analysis_and_visualization/9_multiple_linear_regression/#1)
-- [Logistic 回归分析](https://tan-qiao-guo.github.io/environmental_data_analysis_and_visualization/10_logistic_regression/#1)
-- [t 检验](https://tan-qiao-guo.github.io/environmental_data_analysis_and_visualization/11_t_test/#1)
-- [单因素方差分析（ANOVA）](https://tan-qiao-guo.github.io/environmental_data_analysis_and_visualization/12_anova/#1)
-- [多因素方差分析](https://tan-qiao-guo.github.io/environmental_data_analysis_and_visualization/13_two_way_anova/#1)
-- [主成分分析（PCA）](https://tan-qiao-guo.github.io/environmental_data_analysis_and_visualization/14_pca/#1)
+- [相关性分析](https://tan-qiao-guo.github.io/8_correlation_analysis/#1)
+- [线性回归分析](https://tan-qiao-guo.github.io/9_multiple_linear_regression/#1)
+- [Logistic 回归分析](https://tan-qiao-guo.github.io/10_logistic_regression/#1)
+- [t 检验](https://tan-qiao-guo.github.io/11_t_test/#1)
+- [单因素方差分析（ANOVA）](https://tan-qiao-guo.github.io/12_anova/#1)
+- [多因素方差分析](https://tan-qiao-guo.github.io/13_two_way_anova/#1)
+- [主成分分析（PCA）](https://tan-qiao-guo.github.io/14_pca/#1)
 
 ---
 
 ## 🌐 GitHub 网页部署
 
-- [建立个人 GitHub 网页：示例仓库](https://github.com/tan-qiao-guo/environmental_data_analysis_and_visualization/20230616-example-page)  
+- [建立个人 GitHub 网页：示例仓库](https://github.com/tan-qiao-guo/20230616-example-page)  
 - [示例网页展示](https://tan-qiao-guo.github.io/HeWY_2025_MPB/)
 
 ---
