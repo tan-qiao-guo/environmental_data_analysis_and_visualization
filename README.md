@@ -10,15 +10,15 @@
 
 - [R 简介（PDF）](https://tan-qiao-guo.github.io/environmental_data_analysis_and_visualization/1a.%20R_introduction.pdf)  
 
-- [R 基础知识](https://tan-qiao-guo.github.io/environmental_data_analysis_and_visualization/1b_R_basics/#1)
+- [R 基础知识](https://tan-qiao-guo.github.io/environmental_data_analysis_and_visualization/1b_R_basics/1b_R_basics.html)
 
 ---
 
 ## 🎨 数据可视化
 
-- [ggplot2 作图基础](https://tan-qiao-guo.github.io/environmental_data_analysis_and_visualization/2_ggplot_essentials/#1)  
-- [ggplot2 作图进阶](https://tan-qiao-guo.github.io/environmental_data_analysis_and_visualization/3_ggplot_advanced/#1)  
-- [dplyr 数据整理](https://tan-qiao-guo.github.io/environmental_data_analysis_and_visualization/4_dplyr_data_wrangling/#1)  
+- [ggplot2 作图基础](https://tan-qiao-guo.github.io/environmental_data_analysis_and_visualization/2_ggplot_essentials/2_ggplot_essentials.html)  
+- [ggplot2 作图进阶](https://tan-qiao-guo.github.io/environmental_data_analysis_and_visualization/3_ggplot_advanced/3_ggplot_advanced.html)  
+- [dplyr 数据整理](https://tan-qiao-guo.github.io/environmental_data_analysis_and_visualization/4_dplyr_data_wrangling/4_dplyr_data_wrangling.html)  
 - [lubridate 日期时间处理](https://tan-qiao-guo.github.io/environmental_data_analysis_and_visualization/5_lubridate_date_time_data/#1)  
 - [sf 地图绘制与空间数据处理](https://tan-qiao-guo.github.io/environmental_data_analysis_and_visualization/6_sf_maps/#1)
 
